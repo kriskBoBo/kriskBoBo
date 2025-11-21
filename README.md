@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+<img src="https://camo.githubusercontent.com/a8bbd0be2d81d67f7eec99db7b587307c948955f3ac5c323a13add33eccf7c67/68747470733a2f2f692e696d6774672e636f6d2f323032332f30342f30342f326668386c2e706e67" />
 <!--
 **kriskBoBo/kriskBoBo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
